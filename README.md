@@ -2,7 +2,7 @@
 
 <li>load compiled dll with "netload" in command line</li>
 <li>execute "NozzleArray" command in command line</li>
-<li>you will be prompted for input string (input with double quotes)</li><br>
+<li>you will be prompted for input string (input including double quotes)</li><br>
 <img src="https://github.com/Henaccount/NozzleArray/blob/master/nozzleArry-Input.png"><br>
 <li>you will then be prompted for number of nozzles and the distance. Distance can be negative.</li>
 <li>limited to StraightNozzle,Radial</li>
