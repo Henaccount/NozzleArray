@@ -1,5 +1,7 @@
 # AutoCAD Plant 3D, Create several equipment nozzles at the same time - Sample Code - Use at own risk!
-
+<br>
+<a href="https://github.com/Henaccount/NozzleArray/blob/master/nozzleArray-Demo.gif">Demo</a>
+<br>
 <li>load compiled dll with "netload" in command line</li>
 <li>execute "NozzleArray" command in command line</li>
 <li>you will be prompted for input string (input including double quotes)</li><br>
