@@ -3,4 +3,4 @@ AutoCAD Plant 3D, Create several nozzles at the same time - Sample Code - Use at
 <li>load compiled dll with netload</li>
 <li>execute "NozzleArray" command</li>
 <li>you will be prompted for input string</li>
-<img src=
+<img src="https://github.com/Henaccount/NozzleArray/blob/master/nozzleArry-Input.png">
