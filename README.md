@@ -6,3 +6,4 @@
 <img src="https://github.com/Henaccount/NozzleArray/blob/master/nozzleArry-Input.png"><br>
 <li>you will then be prompted for number of nozzles and the distance. Distance can be negative.</li>
 <li>limited to StraightNozzle,Radial</li>
+<li>based on example from Plant 3D SDK</li>
